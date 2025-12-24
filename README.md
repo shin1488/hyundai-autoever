@@ -6,7 +6,7 @@
 - about.html: 회사 소개
 - services.html: 서비스 소개
 - contact.html: 연락처
-- 
+  
 ## 기술 스택
 - HTML5
 - CSS3
